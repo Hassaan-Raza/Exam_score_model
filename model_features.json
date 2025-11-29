@@ -1,0 +1,41 @@
+{
+  "numerical_features": [
+    "age",
+    "study_hours",
+    "class_attendance",
+    "sleep_hours",
+    "sleep_quality",
+    "study_attendance_ratio",
+    "sleep_study_balance",
+    "efficiency_score",
+    "has_high_attendance",
+    "has_adequate_sleep"
+  ],
+  "categorical_features": [
+    "gender",
+    "course",
+    "internet_access",
+    "study_method",
+    "facility_rating",
+    "exam_difficulty"
+  ],
+  "all_features": [
+    "student_id",
+    "age",
+    "gender",
+    "course",
+    "study_hours",
+    "class_attendance",
+    "internet_access",
+    "sleep_hours",
+    "sleep_quality",
+    "study_method",
+    "facility_rating",
+    "exam_difficulty",
+    "study_attendance_ratio",
+    "sleep_study_balance",
+    "efficiency_score",
+    "has_high_attendance",
+    "has_adequate_sleep"
+  ]
+}
